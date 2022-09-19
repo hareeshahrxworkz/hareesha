@@ -9,6 +9,7 @@ class Sports
 			System.out.println("Creacket memberes are:"+names[i]);
 			
 		}
+		System.out.println("End Printing Creacket Members");
 	}
 	
 	static void kabbadiTeamMembersJerseyNos(int[] nos)
@@ -20,6 +21,7 @@ class Sports
 		System.out.println("Kabadi team member are :"+nos[i]);
 
 	}
+	System.out.println("End Printing Kabadi Team Members");
 
 	}
 		
@@ -34,6 +36,8 @@ class Sports
 		System.out.println("Foot Ball Member Salary is in Lacks  :"+salaries[i]);
 
 	}
+		System.out.println("End Printing Foot ball members");
+
 	}
 	
 	
@@ -48,6 +52,8 @@ class Sports
 			System .out.println("Ludo Team Mobile Numbers are:"+num[i]);
 			
 		}
+				System.out.println("End ludo team");
+
 
 	}
 	static void hockeyTeamMembersNoOfMatches(int[] matches)
@@ -58,6 +64,8 @@ class Sports
 		{
 			System.out.println("Hocky team members no of mathes are :"+matches[i]);
 		}
+				System.out.println("End Hocky Team members");
+
 	}
 	
 	static void kokoTeamMembersCountryCode(long[] name)
@@ -68,6 +76,8 @@ class Sports
 		{
 			System.out.println("koko team members Country Code is :"+name[i]);
 		}
+				System.out.println("KoKo team Membere End Execution");
+
 	}
 
 static void lagoriTeamMembersAlive(boolean[] live)
@@ -78,6 +88,8 @@ static void lagoriTeamMembersAlive(boolean[] live)
 	{
 		System.out.println(" logori teams start or stop are :  "+live[i]);
 	}
+		System.out.println("End printing logori team ");
+
 }
 
 

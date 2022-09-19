@@ -2,7 +2,7 @@ class SportsRunner
 {
 	public static void main(String args[])
 	{
-		System.out.println("Main Sports Start");
+		System.out.println("Main SportsRunner Start");
 		String[] names={"Virat Kohili","Rohit Sharma","Rishab Phant","Hardik Pandya","KL Rahul","Sanju Samson","Jasprit Bumrah","MS Dhoni","Dinesh Karthik","Ravindra Jadeja"};
 		
 		Sports.cricketTeamMembers(names);
@@ -53,6 +53,8 @@ class SportsRunner
 		System.out.println("\n\n");
 		boolean [] live={true, false};
 		Sports.lagoriTeamMembersAlive(live);
+
+		System.out.println("Main SportsRunner End");
 
 		
 	}
