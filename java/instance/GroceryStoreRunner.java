@@ -2,7 +2,7 @@ class GroceryStoreRunner
 {
 	public static void main (String args[])
 	{
-		System.out.println("main naditha ede");
+		System.out.println("main naditha ede, bega");
 		
 		GroceryStore.setRice("Bullet");
 		String rice=GroceryStore.getRice();
