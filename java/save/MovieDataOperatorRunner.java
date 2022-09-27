@@ -8,6 +8,8 @@ class MovieDataOperatorRunner
 		MovieDataOperator.save("Hamsaleka");
 		MovieDataOperator.save("govinda");
 		MovieDataOperator.save("Monesh");
+		MovieDataOperator.displayNames();
+		
 		
 		
 		

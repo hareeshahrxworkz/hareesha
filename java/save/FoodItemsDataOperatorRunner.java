@@ -8,6 +8,7 @@ class FoodItemsDataOperatorRunner
 		FoodItemsDataOperator.save("Biriyani");
 		FoodItemsDataOperator.save("Kabab");
 		FoodItemsDataOperator.save("Edli");
+		FoodItemsDataOperator.displayNames();
 		
 		
 		

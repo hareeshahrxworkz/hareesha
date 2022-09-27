@@ -12,9 +12,16 @@ class TempleDataOperator
 	
 	System.out.println("saved name is " +name+ "    at the position"+position);
 	position++;
+	}
 	
-	for(int i=0;i<arrayName.length;i++){
+	
+	static void displayArrayName()
+	{
+	for(int i=0;i<arrayName.length;i++)
+	{
 	System.out.println("Printing Array detiles "+arrayName[i]);
 	}
+	
+	
 	}
 }

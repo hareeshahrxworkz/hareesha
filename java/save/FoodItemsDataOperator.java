@@ -13,6 +13,10 @@ class FoodItemsDataOperator
 		
 		System.out.println("Saved name is: "+name);
 	position++;
+	}
+		static void displayNames()
+
+		{
 
 	for(int i=0;i<foodItemName.length;i++){
 	System.out.println("Printing Array detiles "+foodItemName[i]);}

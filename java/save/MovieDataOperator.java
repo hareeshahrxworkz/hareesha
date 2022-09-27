@@ -12,6 +12,10 @@ class MovieDataOperator
 		
 		System.out.println("Saved name is: "+name);
 	position++;
+	
+	}
+	ststic void displayNames()
+	{
 
 	for(int i=0;i<movieDirectorName.length;i++){
 	System.out.println("Printing Array detiles "+movieDirectorName[i]);}

@@ -10,6 +10,7 @@ class GraduateDataOperatorRunner
 		GraduateDataOperator.save("nikil");
 		GraduateDataOperator.save("Kumaraswami");
 		GraduateDataOperator.save("Basavaraj bommai");
+		GraduateDataOperator.displayNames("Basavaraj bommai");
 		
 		
 		

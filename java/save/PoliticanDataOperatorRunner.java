@@ -9,6 +9,7 @@ class PoliticanDataOperatorRunner
 		PoliticanDataOperator.save("nikil");
 		PoliticanDataOperator.save("Kumaraswami");
 		PoliticanDataOperator.save("Basavaraj bommai");
+		PoliticanDataOperator.displayNames();
 		
 		
 		

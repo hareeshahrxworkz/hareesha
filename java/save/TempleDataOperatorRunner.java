@@ -9,6 +9,7 @@ class TempleDataOperatorRunner
 		TempleDataOperator.save("Manohar");
 		TempleDataOperator.save("Kushi");
 		TempleDataOperator.save("mamatha");
+		TempleDataOperator.displayArrayName();
 	}	
 	
 }

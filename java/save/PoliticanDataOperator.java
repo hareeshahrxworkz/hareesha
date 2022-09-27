@@ -14,6 +14,9 @@ class PoliticanDataOperator
 		
 		System.out.println("Saved name is: "+name);
 	position++;
+	}
+	static void displayNames()
+	{
 
 	for(int i=0;i<politicianName.length;i++){
 	System.out.println("Printing Array detiles "+politicianName[i]);}

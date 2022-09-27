@@ -14,7 +14,9 @@ class GraduateDataOperator
 		
 		System.out.println("Saved name is: "+name);
 	position++;
-
+	}
+			static void displayNames()
+			{
 	for(int i=0;i<graduateName.length;i++){
 	System.out.println("Printing Array detiles "+graduateName[i]);}
 
