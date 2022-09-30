@@ -47,7 +47,7 @@ class Color
 			
 		if(ref==name){
 	
-		System.out.println("Festivel is found :   " +name);
+		System.out.println("color is found :   " +name);
 		return true;
 		
 		}

@@ -12,10 +12,11 @@ class ColorRunner
 		Color.save("Orange");
 		Color.save("Pink");
 		Color.save("perple");
-		Color.save("apple");
 		
+		
+
 		Color.displayColors();
-		boolean found=Color.find("red");
+		boolean found=Color.find("Red");
 		System.out.println("Finding colores is "+found);
 		
 	}

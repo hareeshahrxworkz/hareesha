@@ -25,16 +25,7 @@ static String [] billionaries={null,null,null,null,null,null,null,null,null,null
 	}
 	
 	}
-	static void displayDetileas()
-	{
-		
-		for(int i=0;i<billionaries.length;i++)
-		{
-			System.out.println("Bilinears name are :   " +billionaries[i]);
-		}
-		
-		
-	}
+	
 	
 	static boolean find(String name)
 	{
