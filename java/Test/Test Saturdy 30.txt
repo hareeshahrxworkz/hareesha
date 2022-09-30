@@ -195,7 +195,7 @@ class hours
 	{
 	int hrs=2,sec;
 	
-	System.out.println("Enter hours");
+	
 	
 	sec=hrs*60*60;
 	System.out.println("Seconds: "+sec);
